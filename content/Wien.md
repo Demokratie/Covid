@@ -1,5 +1,6 @@
 ---
-title: "Wien"
+title: Wien
+enableToc: true
 ---
 
-[Bundesland von Österreich](Österreich)
+Immer noch ein's drauf.
