@@ -1,5 +1,5 @@
 ---
-title: "{{Wien}}"
+title: "Wien"
 ---
 
 [Bundesland von Österreich](Österreich)

@@ -1,5 +1,5 @@
 ---
-title: "{{Österreich}}"
+title: "Österreich"
 ---
 
 Österreich ist eine Republik.
