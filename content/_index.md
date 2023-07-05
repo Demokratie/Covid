@@ -3,6 +3,4 @@ title: Covid Maßnahmen Österreich
 enableToc: true
 ---
 
-# Zivilgesellschaftliche Aufarbeitung der Covid-Maßnahmen
-
-## 2023
+[Covid Maßnahmen Wien](Wien)
