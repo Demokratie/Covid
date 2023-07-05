@@ -1,5 +1,5 @@
 ---
-title: Covid Maßnahmen Österreich
+title: Covid Maßnahmen
 enableToc: true
 ---
 
