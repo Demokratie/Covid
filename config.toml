@@ -1,5 +1,5 @@
-baseURL = "https://quartz.jzhao.xyz/"
-languageCode = "en-us"
+baseURL = "https://demokratie.github.io/Covid/"
+languageCode = "de-at"
 relativeURLs = false
 disablePathToLower = true
 ignoreFiles = [
