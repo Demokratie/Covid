@@ -1,5 +1,5 @@
 ---
-title: Covid Gesetze Wien
+title: Gesetze Wien
 enableToc: true
 ---
 
