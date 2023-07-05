@@ -1,7 +1,9 @@
 ---
-title: Covid-19 Maßnahmengesetz
+title: Maßnahmen
 enableToc: true
 ---
+
+# Covid-19 Maßnahmengesetz
 
 Verordnungen:
 * [96](VO-96.md)

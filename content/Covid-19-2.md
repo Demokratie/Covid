@@ -1,8 +1,9 @@
 ---
-title: 2. Covid-19 Gesetz
+title: Covid-19-2
 enableToc: true
 ---
 
+# 2. Covid-19 Gesetz
 
 * kundgemacht im [Bundesgesetzblatt I Nr. 16/2020](https://www.ris.bka.gv.at/eli/bgbl/I/2020/16)
 * kundgemacht am 21. März 2020
