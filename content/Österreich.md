@@ -1,5 +1,5 @@
 ---
-title: Covid Gesetze Österreich
+title: Gesetze Österreich
 enableToc: true
 ---
 
