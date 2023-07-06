@@ -1,7 +1,7 @@
 ---
 title: Navigation
 enableToc: false
-style: fullscreengraph
+layout: fullscreengraph
 ---
 
 # Überblick über die Maßnahmen
