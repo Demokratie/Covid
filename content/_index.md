@@ -4,4 +4,3 @@ enableToc: true
 ---
 
 * [Österreich](Österreich)
-* [Großer Navigationsgraph](fullscreengraph)
