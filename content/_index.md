@@ -1,6 +1,6 @@
 ---
 title: Covid Maßnahmen
-enableToc: true
+enableToc: false
 ---
 
 * [Österreich](Österreich)
