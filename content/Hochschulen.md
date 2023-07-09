@@ -1,7 +1,7 @@
 ---
-title: COVID-19-Hochschulgesetz
+title: Hochschulen
 enableToc: true
 ---
 
-# Zweck
+# COVID-19-Hochschulgesetz
 Vermeidung des Aussetzens von Studienbeihilfe.

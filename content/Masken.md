@@ -1,8 +1,8 @@
 ---
-title: Bundesgesetz über das Inverkehrbringen von Mund-Nasen-Schnellmasken während der Corona COVID-19-Pandemie
+title: Masken
 enableToc: true
 ---
 
-# Text
+# Bundesgesetz über das Inverkehrbringen von Mund-Nasen-Schnellmasken während der Corona COVID-19-Pandemie
 
 Für Mund-Nasen-Schnellmasken ist keine Zertifizierung ... erforderlich.
