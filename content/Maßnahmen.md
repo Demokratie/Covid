@@ -6,10 +6,14 @@ enableToc: true
 # Covid-19 Maßnahmengesetz
 
 Verordnungen:
-* [96](VO-96.md)
-* [97](VO-97.md)
-* [98](VO-98.md)
-* [107](VO-107.md)
-* [108](VO-108.md)
-* [110](VO-110.md)
-* [112](VO-112.md)
+
+| Kundmachung   | Verordnung       |
+|:-------------:|:----------------:|
+| 15. März 2020 | [96](VO-96.md)   |
+| 15. März 2020 | [97](VO-97.md)   |
+| 15. März 2020 | [98](VO-98.md)   |
+| 19. März 2020 | [107](VO-107.md) |
+| 20. März 2020 | [108](VO-108.md) |
+| 20. März 2020 | [110](VO-110.md) |
+| 22. März 2020 | [112](VO-112.md) |
+| 2. April 2020 | [130](VO-130.md) |  

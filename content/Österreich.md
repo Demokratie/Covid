@@ -3,7 +3,7 @@ title: Österreich
 enableToc: true
 ---
 
-# Gesetzliche Beschlüsse auf Bundesebene in Österreich
+# Gesetzliche Beschlüsse auf Bundesebene
 
 Diese Aufstellung umfasst die vom Österreichischen Parlament beschlossenen Gesetze. Auf die mit den Beschlüssen begründeten gesetzlichen Materien wird von den jeweiligen Beschlüssen verlinkt:
 

@@ -3,4 +3,6 @@ title: Fonds
 enableToc: true
 ---
 
-# COVID-19-Krisenbewältigungsfonds
+# Bundesgesetz über die Errichtung des COVID-19-Krisenbewältigungsfonds
+
+Fonds, um Bundesministerien die Mittel für Covid-Maßnahmen zur Verfügung zu stellen.

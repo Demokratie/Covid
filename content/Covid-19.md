@@ -9,8 +9,8 @@ enableToc: true
 * in Kraft ab 16. März 2020
 
 Materien:
-* [COVID-19-Krisenbewältigungsfonds](Fonds.md)
-* [COVID-19-Maßnahmengesetz](Maßnahmen.md)
+* [COVID-19-Krisenbewältigungsfonds](Fonds)
+* [COVID-19-Maßnahmengesetz](Maßnahmen)
 * Budgetprovisorium 2020
 * Bundesfinanzrahmengesetz 2019 bis 2022
 * Abbaubeteiligungsaktiengesellschaft des Bundes
