@@ -3,12 +3,14 @@ title: Österreich
 enableToc: true
 ---
 
-# Gesetzliche Beschlüsse auf Bundesebene
+# Gesetze auf Bundesebene
 
-Diese Aufstellung umfasst die vom Österreichischen Parlament beschlossenen Gesetze. Auf die mit den Beschlüssen begründeten gesetzlichen Materien wird von den jeweiligen Beschlüssen verlinkt:
+* [COVID-19-Maßnahmengesetz](Maßnahmen)
+* [Bundesgesetz betreffend Begleitmaßnahmen zu COVID-19 in der Justiz](Justiz)
+* [Covid-19 Fond Gesetz](Fonds)
+* [Epidemiegesetz](Epidemie)
+* [Covid-19-Hochschulgesetz](Hochschulen)
+* [Bundesgesetz über das Inverkehrbringen von Mund-Nasen-Schnellmasken während der Corona COVID-19-Pandemie](Masken)
+* [COVID-19-Schulstornofonds-Gesetz](Schulstorno)
+ 
 
-| Kundmachung | Beschluss                                                  |
-|:------|:----------------------------------------------------------:|
-|15. März 2020| [1. Österreichisches Covid-19 Gesetz](Covid-19.md)         |
-|21. März 2020| [2. Österreichisches Covid-19 Gesetz](Covid-19-2.md)       |
-|       | [3. Österreichisches Covid-19 Gesetz](Covid-19-3.md)       |  
