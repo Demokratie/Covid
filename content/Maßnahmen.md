@@ -11,23 +11,7 @@ Ziel: Eindämmung der COVID-19-Pandemie in Österreich.
 
 Verordnungen:
 
-| Kundmachung   | Verordnung       |
-|:-------------:|:----------------:|
-| 15. März 2020 | [96](VO-96.md)   |
-| 15. März 2020 | [97](VO-97.md)   |
-| 15. März 2020 | [98](VO-98.md)   |
-| 19. März 2020 | [107](VO-107.md) |
-| 20. März 2020 | [108](VO-108.md) |
-| 20. März 2020 | [110](VO-110.md) |
-| 22. März 2020 | [112](VO-112.md) |
-| 2. April 2020 | [130](VO-130.md) | 
-| 9. April 2020 | [148](VO-148.md) |
-| 9. April 2020 | [151](VO-151.md) |
-| 10. April 2020 | [152](VO-152.md) |
-| 18. April 2020 | [162](VO-162.md) |
-| 30. April 2020 | [197](VO-197.md) |
-| 13. Mai 2020 | [207](VO-207.md) |
-
+* [2020](Maßnahmen-2020.md)
   
 # Bundesgesetz betreffend vorläufige Maßnahmen zur Verhinderung der Verbreitung von COVID-19 (COVID-19-Maßnahmengesetz)
 
