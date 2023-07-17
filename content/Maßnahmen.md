@@ -6,6 +6,7 @@ enableToc: true
 * kundgemacht im [Covid-19 Gesetz](https://www.ris.bka.gv.at/eli/bgbl/I/2020/12)
 * geändert im [2. Covid-19 Gesetz](https://www.ris.bka.gv.at/eli/bgbl/I/2020/16)
 * geändert im [3. Covid-19 Gesetz](https://www.ris.bka.gv.at/eli/bgbl/I/2020/23)
+* geändert im [104. Bundesgesetz](https://www.ris.bka.gv.at/eli/bgbl/I/2020/104)
 
 Ziel: Eindämmung der COVID-19-Pandemie in Österreich.
 

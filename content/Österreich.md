@@ -12,5 +12,9 @@ enableToc: true
 * [Covid-19-Hochschulgesetz](Hochschulen)
 * [Bundesgesetz über das Inverkehrbringen von Mund-Nasen-Schnellmasken während der Corona COVID-19-Pandemie](Masken)
 * [COVID-19-Schulstornofonds-Gesetz](Schulstorno)
+* [Tuberkulosegesetz](Tuberkulose)
+
+
+
  
 
