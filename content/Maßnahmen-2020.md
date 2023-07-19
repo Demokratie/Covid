@@ -34,5 +34,8 @@ enableToc: true
 | 24. September 2020 | [412](20-412.md) |
 | 2. Oktober 2020 | [427](20-427.md) |
 | 15. Oktober 2020 | [446](20-446.md) |
+| 22. Oktober 2020 | [455](20-455.md) |
+| 22. Oktober 2020 | [456](20-456.md) |
+
 
 

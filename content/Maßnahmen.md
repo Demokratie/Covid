@@ -13,6 +13,7 @@ Ziel: Eindämmung der COVID-19-Pandemie in Österreich.
 Verordnungen:
 
 * [2020](Maßnahmen-2020.md)
+* [2021](Maßnahmen-2021.md)
   
 # Bundesgesetz betreffend vorläufige Maßnahmen zur Verhinderung der Verbreitung von COVID-19 (COVID-19-Maßnahmengesetz)
 
