@@ -3,7 +3,7 @@ title: Österreich
 enableToc: true
 ---
 
-# Gesetze auf Bundesebene
+# Covid-Gesetze und Verordnungen auf Bundesebene
 
 * [COVID-19-Maßnahmengesetz](Maßnahmen)
 * [Bundesgesetz betreffend Begleitmaßnahmen zu COVID-19 in der Justiz](Justiz)
