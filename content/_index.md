@@ -1,5 +1,5 @@
 ---
-title: Covid Maßnahmen
+title: Covid
 enableToc: false
 ---
 
