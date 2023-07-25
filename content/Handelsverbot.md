@@ -1,5 +1,5 @@
 ---
-title: 20-96
+title: Handelsverbot
 ---
 
 Vorläufige Maßnahmen zur Verhinderung der Verbreitung von COVID-19
