@@ -1,6 +1,5 @@
 ---
 title: Maßnahmen-2021
-enableToc: true
 ---
 
 # Verordnungen zu COVID-19-Maßnahmengesetz 2021

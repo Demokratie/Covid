@@ -1,6 +1,5 @@
 ---
 title: Österreich
-enableToc: true
 ---
 
 # Covid-Gesetze und Verordnungen auf Bundesebene

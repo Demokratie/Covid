@@ -1,6 +1,5 @@
 ---
 title: Fonds
-enableToc: true
 ---
 
 * [Rechtsinformationssystem Gesetzesnummer 20011074](https://www.ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=20011074)

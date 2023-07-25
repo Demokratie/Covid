@@ -1,6 +1,5 @@
 ---
 title: 20-96
-enableToc: true
 ---
 
 Vorläufige Maßnahmen zur Verhinderung der Verbreitung von COVID-19

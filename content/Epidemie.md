@@ -1,6 +1,5 @@
 ---
 title: Epidemie
-enableToc: true
 ---
 
 # Epidemiegesetz 1950

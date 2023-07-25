@@ -1,15 +1,14 @@
 ---
 title: Maßnahmen-2020
-enableToc: true
 ---
 
 # Verordnungen zu COVID-19-Maßnahmengesetz 2020
 
 | Kundmachung   | Verordnung       |
 |:-------------:|:----------------:|
-| 15. März 2020 | [96](20-96.md)   |
-| 15. März 2020 | [97](20-97.md)   |
-| 15. März 2020 | [98](20-98.md)   |
+| 15. März 2020 | [96](Handelsverbot.md)   |
+| 15. März 2020 | [97](Lokalverbot.md)   |
+| 15. März 2020 | [98](Lockdown.md)   |
 | 10. April 2020 | [152](20-152.md) |
 | 18. April 2020 | [162](20-162.md) |
 | 30. April 2020 | [197](20-197.md) |

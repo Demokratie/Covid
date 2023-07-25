@@ -1,6 +1,5 @@
 ---
 title: Tuberkulose
-enableToc: true
 ---
 
 * [Rechtsinformationssystem](https://www.ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10010326)
