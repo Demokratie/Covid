@@ -1,10 +1,14 @@
 ---
-title: Covid
-enableToc: false
+title: Österreich
 ---
 
-# Übersichtsseite
+# Covid-Gesetze und Verordnungen auf Bundesebene
 
-Die mit SARS-CoV-2 (COVID-19) begründeten politischen Maßnahmen werden nach Geltungsbereich übersichtsweise dargestellt:
-
-* [Covid-Gesetze und Verordnungen auf Bundesebene in Österreich](Österreich)
+* [COVID-19-Maßnahmengesetz](Maßnahmen)
+* [Bundesgesetz betreffend Begleitmaßnahmen zu COVID-19 in der Justiz](Justiz)
+* [Covid-19 Fond Gesetz](Fonds)
+* [Epidemiegesetz](Epidemie)
+* [Covid-19-Hochschulgesetz](Hochschulen)
+* [Bundesgesetz über das Inverkehrbringen von Mund-Nasen-Schnellmasken während der Corona COVID-19-Pandemie](Masken)
+* [COVID-19-Schulstornofonds-Gesetz](Schulstorno)
+* [Tuberkulosegesetz](Tuberkulose)
