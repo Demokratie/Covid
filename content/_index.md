@@ -2,7 +2,7 @@
 title: Österreich
 ---
 
-# Covid-Gesetze und Verordnungen auf Bundesebene
+# Gesetze und Verordnungen auf Bundesebene in Österreich
 
 * [COVID-19-Maßnahmengesetz](Maßnahmen)
 * [Bundesgesetz betreffend Begleitmaßnahmen zu COVID-19 in der Justiz](Justiz)
