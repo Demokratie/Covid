@@ -1,11 +1,14 @@
 ---
-title: 20-566
+title: Lockdown-light-3
 enableToc: true
 ---
 
 3\. COVID-19-Schutzmaßnahmenverordnung – 3. COVID-19-SchuMaV
 
-* kundgemacht im [Bundesgesetzblatt II Nr. 566/2020](https://www.ris.bka.gv.at/eli/bgbl/II/2020/566)
+| Kundmachung   | Verordnung       |
+|:-------------:|:----------------:|
+| 16. Dezember 2020 |  [Bundesgesetzblatt II Nr. 566/2020](https://www.ris.bka.gv.at/eli/bgbl/II/2020/566) |
+| 22. Dezember 2020 | [598](20-598.md) |
 
 # 566\. Verordnung des Bundesministers für Soziales, Gesundheit, Pflege und Konsumentenschutz, mit der besondere Schutzmaßnahmen gegen die Verbreitung von COVID-19 getroffen werden (3. COVID-19-Schutzmaßnahmenverordnung – 3. COVID-19-SchuMaV)
 ================================================================================================================================================================================================================================================

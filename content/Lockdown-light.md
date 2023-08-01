@@ -1,11 +1,15 @@
 ---
-title: 20-463
+title: Lockdown-light
 enableToc: true
 ---
 
 COVID-19-Schutzmaßnahmenverordnung – COVID-19-SchuMaV
 
-* kundgemacht im [Bundesgesetzblatt II Nr. 463/2020](https://www.ris.bka.gv.at/eli/bgbl/II/2020/463)
+| Kundmachung   | Verordnung       |
+|:-------------:|:----------------:|
+| 1. November 2020 | [Bundesgesetzblatt II Nr. 463/2020](https://www.ris.bka.gv.at/eli/bgbl/II/2020/463) |
+| 10. November 2020 | [472](20-472.md) |
+| 11. November 2020 | [476](20-476.md) |
 
 # 463\. Verordnung des Bundesministers für Soziales, Gesundheit, Pflege und Konsumentenschutz, mit der besondere Schutzmaßnahmen gegen die Verbreitung von COVID-19 getroffen werden (COVID-19-Schutzmaßnahmenverordnung – COVID-19-SchuMaV)
 ==========================================================================================================================================================================================================================================

@@ -11,6 +11,7 @@ Vorläufige Maßnahmen zur Verhinderung der Verbreitung von COVID-19
 | 22. März 2020 | [112](20-112.md) |
 | 2. April 2020 | [130](20-130.md) | 
 | 9. April 2020 | [151](20-151.md) |
+| 18. April 2020 | [162](20-162.md) |
 
 # 96\. Verordnung des Bundesministers für Soziales, Gesundheit, Pflege und Konsumentenschutz betreffend vorläufige Maßnahmen zur Verhinderung der Verbreitung von COVID-19
 ========================================================================================================================================================================

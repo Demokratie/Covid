@@ -1,11 +1,14 @@
 ---
-title: 20-479
+title: Lockdown-2
 enableToc: true
 ---
 
 COVID-19-Notmaßnahmenverordnung – COVID-19-NotMV
 
-* kundgemacht im [Bundesgesetzblatt II Nr. 479/2020](https://www.ris.bka.gv.at/eli/bgbl/II/2020/479)
+| Kundmachung   | Verordnung       |
+|:-------------:|:----------------:|
+| 15. November 2020 | [Bundesgesetzblatt II Nr. 479/2020](https://www.ris.bka.gv.at/eli/bgbl/II/2020/479) |
+| 25. November 2020 | [528](20-528.md) |
 
 # 479\. Verordnung des Bundesministers für Soziales, Gesundheit, Pflege und Konsumentenschutz, mit der besondere Schutzmaßnahmen zur Verhinderung einer Notsituation auf Grund von COVID-19 getroffen werden (COVID-19-Notmaßnahmenverordnung – COVID-19-NotMV)
 =============================================================================================================================================================================================================================================================

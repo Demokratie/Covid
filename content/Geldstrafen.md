@@ -1,5 +1,5 @@
 ---
-title: 20-152
+title: Geldstrafen
 enableToc: true
 ---
 
@@ -8,6 +8,7 @@ Einhebung von Geldstrafen mit Organstrafverfügung nach dem Epidemiegesetz 1950
 | Kundmachung   | Verordnung/Änderung |
 |:-------------:|:----------------:|
 | 10. April 2020 |  [Bundesgesetzblatt II Nr. 152/2020](https://www.ris.bka.gv.at/eli/bgbl/II/2020/152) |
+| 2. Oktober 2020 | [427](20-427.md) |
 
 # 152\. Verordnung des Bundesministers für Soziales, Gesundheit, Pflege und Konsumentenschutz über die Einhebung von Geldstrafen mit Organstrafverfügung nach dem Epidemiegesetz 1950 und dem COVID-19-Maßnahmengesetz
 ====================================================================================================================================================================================================================

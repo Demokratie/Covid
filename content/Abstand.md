@@ -1,11 +1,28 @@
 ---
-title: 20-197
+title: Abstand
 enableToc: true
 ---
 
 COVID-19-Lockerungsverordnung – COVID-19-LV
 
-* kundgemacht im [Bundesgesetzblatt II Nr. 197/2020](https://www.ris.bka.gv.at/eli/bgbl/II/2020/197)
+| Kundmachung   | Verordnung/Änderung |
+|:-------------:|:----------------:|
+| 30. April 2020 | [Bundesgesetzblatt II Nr. 197/2020](https://www.ris.bka.gv.at/eli/bgbl/II/2020/197) |
+| 13. Mai 2020 | [207](20-207.md) |
+| 27. Mai 2020 | [231](20-231.md) |
+| 28. Mai 2020 | [239](20-239.md) |
+| 29. Mai 2020 | [246](20-246.md) |
+| 13. Juni 2020 | [266](20-266.md) |
+| 29. Juni 2020 | [287](20-287.md) |
+| 2. Juli 2020 | [299](20-299.md) |
+| 22. Juli 2020 | [332](20-332.md) |
+| 29. Juli 2020 | [342](20-342.md) |
+| 12. September 2020 | [398](20-398.md) |
+| 18. September 2020 | [407](20-407.md) |
+| 24. September 2020 | [412](20-412.md) |
+| 15. Oktober 2020 | [446](20-446.md) |
+| 22. Oktober 2020 | [455](20-455.md) |
+| 22. Oktober 2020 | [456](20-456.md) |
 
 # 197\. Verordnung des Bundesministers für Soziales, Gesundheit, Pflege und Konsumentenschutz betreffend Lockerungen der Maßnahmen, die zur Bekämpfung der Verbreitung von COVID-19 ergriffen wurden (COVID-19-Lockerungsverordnung – COVID-19-LV)
 ================================================================================================================================================================================================================================================

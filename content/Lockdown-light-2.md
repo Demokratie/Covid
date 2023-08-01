@@ -1,11 +1,13 @@
 ---
-title: 20-544
+title: Lockdown-light-2
 enableToc: true
 ---
 
 2\. COVID-19-Schutzmaßnahmenverordnung – 2. COVID-19-SchuMaV
 
-* kundgemacht im [Bundesgesetzblatt II Nr. 544/2020](https://www.ris.bka.gv.at/eli/bgbl/II/2020/544)
+| Kundmachung   | Verordnung       |
+|:-------------:|:----------------:|
+| 4. Dezember 2020 | [Bundesgesetzblatt II Nr. 544/2020](https://www.ris.bka.gv.at/eli/bgbl/II/2020/544) |
 
 # 544\. Verordnung des Bundesministers für Soziales, Gesundheit, Pflege und Konsumentenschutz, mit der besondere Schutzmaßnahmen gegen die Verbreitung von COVID-19 getroffen werden (2. COVID-19-Schutzmaßnahmenverordnung – 2. COVID-19-SchuMaV)
 ================================================================================================================================================================================================================================================
